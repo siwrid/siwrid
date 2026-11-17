@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Tomiris Sharipbay
 
-<!--
-**siwrid/siwrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MSc Cybersecurity Student (Erasmus Mundus CYBERSURE — NTNU & KTH)** | **BSc CS & AI (KAIST)**  
+Focused on embedded wireless security, side-channel analysis, and low-latency systems engineering in **C/C++, Rust, Python, and Java**.
 
-Here are some ideas to get you started:
+- **Currently working on:** Side-channel power analysis & fault injection (ChipWhisperer) and authenticated 802.11 MAC protocols on ESP32-C6.
+- **Looking for:** Summer 2027 Internships in Cybersecurity, Systems Engineering, or Backend/AI (Norway & Stockholm — full-time summer work rights).
+- **Connect:** [LinkedIn](https://www.linkedin.com/in/tomiris-sharipbay) · `tomiriss@stud.ntnu.no`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Featured Work
+- **[esp32-ascon-wireless-sec](#)** — FSM-driven peer-to-peer 802.11 MAC communication in C/FreeRTOS with Ascon-AEAD encryption.
+- **[chipwhisperer-cpa-glitch](#)** — Correlation Power Analysis (CPA), SAD/DTW trace realignment, and voltage/clock fault injection in Python.
+- **[mmwave-keystroke-inference](#)** — Acoustic & 60 GHz mmWave radar side-channel keystroke classification (89.2% top-1 accuracy).
+- **[fork-spatial-platform](#)** — Full-stack geospatial web platform built with Java Spring Boot, PostgreSQL, and React.
