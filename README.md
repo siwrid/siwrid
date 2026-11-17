@@ -22,16 +22,5 @@
 - 🗺️ **[fork](https://github.com/siwrid/fork)** — Full-stack interactive geospatial platform built with Java Spring Boot, PostgreSQL, and React[cite: 13, 16].
 - 🎙️ **[SER](https://github.com/siwrid/SER)** — Multimodal speech and text emotion recognition pipeline trained on IEMOCAP[cite: 4, 13].
 
-### 📊 GitHub Activity & Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=siwrid&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siwrid&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siwrid&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
 ---
 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/tomiris-sharipbay) · `tomiriss@stud.ntnu.no` · *Available for Summer 2027 Internships (Norway & Stockholm — Full-time summer work rights)*
