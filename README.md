@@ -8,7 +8,7 @@ Focused on embedded wireless security, side-channel analysis, and low-latency sy
 - **Connect:** [LinkedIn](https://www.linkedin.com/in/tomiris-sharipbay) · `tomiriss@stud.ntnu.no`
 
 #### Featured Work
-- **[esp32-ascon-wireless-sec](#)** — FSM-driven peer-to-peer 802.11 MAC communication in C/FreeRTOS with Ascon-AEAD encryption.
-- **[chipwhisperer-cpa-glitch](#)** — Correlation Power Analysis (CPA), SAD/DTW trace realignment, and voltage/clock fault injection in Python.
-- **[mmwave-keystroke-inference](#)** — Acoustic & 60 GHz mmWave radar side-channel keystroke classification (89.2% top-1 accuracy).
-- **[fork-spatial-platform](#)** — Full-stack geospatial web platform built with Java Spring Boot, PostgreSQL, and React.
+- **[ascon-auth-handshake](https://github.com/siwrid/ascon-auth-handshake)** — FSM-driven peer-to-peer 802.11 MAC communication in C/FreeRTOS with Ascon-AEAD authenticated encryption.
+- **[rsa-spa-attack](https://github.com/siwrid/rsa-spa-attack)** — Side-channel power analysis (SPA/CPA) and trace alignment experiments in Python.
+- **[mmwave-keystroke-inference](https://github.com/siwrid/mmwave-keystroke-inference)** — Acoustic & 60 GHz mmWave radar side-channel keystroke classification (89.2% top-1 accuracy).
+- **[fork](https://github.com/siwrid/fork)** — Full-stack interactive geospatial web platform built with Java Spring Boot, PostgreSQL, and React.
